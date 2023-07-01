@@ -2,3 +2,4 @@ Firewall
 Incoming-Traffic
 new updates added
 2023 privacy updated
+2023 password security
