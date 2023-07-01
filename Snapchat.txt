@@ -2,3 +2,4 @@ Signup
 Login
 Home
 Profile
+logout
